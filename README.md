@@ -47,5 +47,6 @@ Lab-8/
    ```bash
    cd backend
    node server.js
-   cd frontend
+4. Start frontend
+   ```cd frontend
    npm start
